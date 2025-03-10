@@ -15,7 +15,7 @@ A Minecraft-focused AI chatbot built using Gradio and Gemma2-9B-IT, designed to 
 3. Run: `python app.py`
 
 ## Tech Stack
-- Python, Gradio, Hugging Face, OpenAI API
+- Python, Gradio, Hugging Face, Gemma2-9B-IT
 
 ## Future Plans
 - Improve UI/UX
