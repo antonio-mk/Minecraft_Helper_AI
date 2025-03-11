@@ -1,7 +1,7 @@
 # Minecraft Helper AI Chatbot
 A Minecraft-focused AI chatbot built using Gradio and Gemma2-9B-IT, designed to assist players with crafting recipes, Redstone guidance, and game commands.
 
-![Chatbot Screenshot](https://drive.google.com/file/d/1wU5rzqvDE-xK4mmkAtwJuo84eO9B0hGX/view?usp=sharing)
+![Chatbot Screenshot](https://drive.usercontent.google.com/download?id=1wU5rzqvDE-xK4mmkAtwJuo84eO9B0hGX)
 
 ## Features
 - Explains crafting recipes  
